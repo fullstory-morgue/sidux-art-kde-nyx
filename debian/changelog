@@ -5,5 +5,6 @@ sidux-art-kde-nyx (0.0) unstable; urgency=low
   * fix copyright year
   * fix kdm release numbering
   * add ksplash theme (not releasable)
+  * update logo in kdm and ksplash to match wallpaper 
 
- -- Bernard Gray <bernard.gray@gmail.com>  Sun, 10 Feb 2008 20:20:19 +1100
+ -- Bernard Gray <bernard.gray@gmail.com>  Sun, 10 Feb 2008 21:37:33 +1100
