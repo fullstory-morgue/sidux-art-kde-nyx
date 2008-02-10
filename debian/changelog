@@ -1,5 +1,7 @@
 sidux-art-kde-nyx (0.0) unstable; urgency=low
 
   * Initial Release.
+  * add kdm theme
+  * fix copyright year 
 
- -- Bernard Gray <bernard.gray@gmail.com>  Sun, 10 Feb 2008 17:45:19 +1100
+ -- Bernard Gray <bernard.gray@gmail.com>  Sun, 10 Feb 2008 20:01:18 +1100

@@ -5,25 +5,21 @@ The original source can always be found at:
         http://developer.berlios.de/projects/fullstory
 
         Copyright:
-                (C) 2006-2007 F.U.L.L.S.T.O.R.Y Project
-
-The following artwork has been contributed to this package:
-
-sidux gomo ksplash theme
-Copyright (C) 2007  by 
-	Bernard Gray <bernard.gray@gmail.com>
-        Daniel Prien <d-s-p@d-s-p.de>
-License: GPL2 or later
-
-sidux gomo kdm theme
-Copyright (C) 2007  by 
-	Bernard Gray <bernard.gray@gmail.com>
-        Daniel Prien <d-s-p@d-s-p.de>
-License: GPL2 or later
-
-Invisible kdisplay color schemes
-Copyright (C) 2007  by knithx (knithx@gmail.com)
-License: GPL2 or later
+		sidux gomo ksplash theme
+		Copyright (C) 2008  by 
+			Bernard Gray <bernard.gray@gmail.com>
+		        Daniel Prien <d-s-p@d-s-p.de>
+		License: GPL2 or later
+		
+		sidux gomo kdm theme
+		Copyright (C) 2008  by 
+			Bernard Gray <bernard.gray@gmail.com>
+		        Daniel Prien <d-s-p@d-s-p.de>
+		License: GPL2 or later
+		
+		Invisible kdisplay color schemes
+		Copyright (C) 2008  by knithx (knithx@gmail.com)
+		License: GPL2 or later
 
 All other files contained within this distribution are covered by the GPL
 license v2 or later.
@@ -45,5 +41,5 @@ license v2 or later.
 On Debian systems, the complete text of the GNU General
 Public License can be found in `/usr/share/common-licenses/GPL'.
 
-The Debian packaging is (C) 2007, Bernard Gray <bernard.gray@gmail.com> and
+The Debian packaging is (C) 2008, Bernard Gray <bernard.gray@gmail.com> and
 is licensed under the GPL, see above.
