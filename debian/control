@@ -1,0 +1,17 @@
+Source: sidux-art-kde-nyx
+Section: graphics
+Priority: extra
+Maintainer: Bernard Gray <bernard.gray@gmail.com>
+Uploaders: Stefan Lippers-Hollmann <s.l-h@gmx.de>
+Build-Depends: cdbs, debhelper (>= 6)
+Standards-Version: 3.7.3
+Vcs-Svn: svn://svn.berlios.de/fullstory/sidux-art-kde-gaia/trunk
+Vcs-Browser: http://svn.berlios.de/wsvn/fullstory/sidux-art-kde-gaia/trunk/
+
+
+Package: sidux-art-kde-nyx
+Architecture: all
+Depends: ksplash, kdm, ksplash-engine-moodin
+Description: KDE theme for sidux 2007-04 eros
+ Provides ksplash, kdm and KDE themes
+ for sidux 2007-04 Eros release
