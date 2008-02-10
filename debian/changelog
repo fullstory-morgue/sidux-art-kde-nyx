@@ -6,6 +6,7 @@ sidux-art-kde-nyx (0.0) unstable; urgency=low
   * fix kdm release numbering
   * add ksplash theme (not releasable)
   * update logo in kdm and ksplash to match wallpaper
-  * update login panel bg for ksplash and kdm 
+  * update login panel bg for ksplash and kdm
+  * remove black border from kdm login.png 
 
- -- Bernard Gray <bernard.gray@gmail.com>  Sun, 10 Feb 2008 21:46:46 +1100
+ -- Bernard Gray <bernard.gray@gmail.com>  Sun, 10 Feb 2008 22:05:22 +1100

@@ -28,6 +28,13 @@
        inkscape:vp_y="0 : 1000 : 0"
        inkscape:vp_z="700 : 600 : 1"
        inkscape:persp3d-origin="300 : 400 : 1"
+       id="perspective29" />
+    <inkscape:perspective
+       sodipodi:type="inkscape:persp3d"
+       inkscape:vp_x="-50 : 600 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_z="700 : 600 : 1"
+       inkscape:persp3d-origin="300 : 400 : 1"
        id="perspective34" />
     <linearGradient
        inkscape:collect="always"
@@ -152,7 +159,7 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="1.264557"
-     inkscape:cx="255.42543"
+     inkscape:cx="115.85086"
      inkscape:cy="260.13348"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
@@ -186,7 +193,7 @@
        height="341.05539"
        width="602.18115"
        id="rect4542"
-       style="opacity:0.3;fill:#99a3a5;fill-opacity:1;stroke:#000000;stroke-width:1.44634032000000001;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       style="opacity:0.29999999999999999;fill:#99a3a5;fill-opacity:1;stroke:none;stroke-width:1.44634032000000001;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        rx="23.077162"
        inkscape:export-filename="/home/bernie/svn/svn.berlios.de-fullstory/sidux-art-kde-eros/trunk/kdm/login.png"
        inkscape:export-xdpi="90"
