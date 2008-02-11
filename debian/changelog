@@ -10,5 +10,6 @@ sidux-art-kde-nyx (0.0) unstable; urgency=low
   * remove black border from kdm login.png
   * recommit, something didn't work with last
   * update sidux-logo in ksplash and kdm
+  * modify ksplash them so it's releasable
 
- -- Bernard Gray <bernard.gray@gmail.com>  Mon, 11 Feb 2008 18:29:47 +1100
+ -- Bernard Gray <bernard.gray@gmail.com>  Mon, 11 Feb 2008 18:53:29 +1100

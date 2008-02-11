@@ -1,4 +1,4 @@
-[KSplash Theme: sidux-eros]
+[KSplash Theme: sidux-nyx]
 Name = sidux-nyx
 Description = sidux 2008-01 Nyx ksplash theme
 Version = 1.0
@@ -21,7 +21,7 @@ Image6 = ./desktop.png
 Image7 = ./style.png
 Image8 = ./kmenu.png
 
-ImageCoords1 = 1150,950
+ImageCoords1 = 0,-250
 ImageCoords2 = 579,600
 ImageCoords3 = 646,600
 ImageCoords4 = 713,600
