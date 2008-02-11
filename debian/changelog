@@ -8,6 +8,7 @@ sidux-art-kde-nyx (0.0) unstable; urgency=low
   * update logo in kdm and ksplash to match wallpaper
   * update login panel bg for ksplash and kdm
   * remove black border from kdm login.png
-  * recommit, something didn't work with last 
+  * recommit, something didn't work with last
+  * update sidux-logo in ksplash and kdm
 
- -- Bernard Gray <bernard.gray@gmail.com>  Sun, 10 Feb 2008 22:07:08 +1100
+ -- Bernard Gray <bernard.gray@gmail.com>  Mon, 11 Feb 2008 18:29:47 +1100
