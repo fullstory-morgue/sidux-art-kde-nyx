@@ -13,22 +13,22 @@ UseIconSet = false
 LabelShadow = false
 
 Image1 = ./sidux-logo.png
-Image2 = ./kcmsystem.png
-Image3 = ./kcontrol.png
-Image4 = ./kcmpci.png
-Image5 = ./window_list.png
-Image6 = ./desktop.png
-Image7 = ./style.png
-Image8 = ./kmenu.png
+Image2 = ./phase1.png
+Image3 = ./phase2.png
+Image4 = ./phase3.png
+Image5 = ./phase4.png
+Image6 = ./phase5.png
+Image7 = ./phase6.png
+Image8 = ./phase7.png
 
 ImageCoords1 = 0,-250
-ImageCoords2 = 579,600
-ImageCoords3 = 646,600
-ImageCoords4 = 713,600
-ImageCoords5 = 780,600
-ImageCoords6 = 847,600
-ImageCoords7 = 913,600
-ImageCoords8 = 980,600
+ImageCoords2 = 499,609
+ImageCoords3 = 599,609
+ImageCoords4 = 679,609
+ImageCoords5 = 759,609
+ImageCoords6 = 839,609
+ImageCoords7 = 919,609
+ImageCoords8 = 999,609
 
 LineUpImages = false
 
