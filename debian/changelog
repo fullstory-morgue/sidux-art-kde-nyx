@@ -11,5 +11,6 @@ sidux-art-kde-nyx (0.0) unstable; urgency=low
   * recommit, something didn't work with last
   * update sidux-logo in ksplash and kdm
   * modify ksplash them so it's releasable
+  * remove kde-theme dir temporarily 
 
- -- Bernard Gray <bernard.gray@gmail.com>  Mon, 11 Feb 2008 18:53:29 +1100
+ -- Bernard Gray <bernard.gray@gmail.com>  Mon, 11 Feb 2008 18:55:29 +1100
