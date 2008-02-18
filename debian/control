@@ -12,6 +12,6 @@ Vcs-Browser: http://svn.berlios.de/wsvn/fullstory/sidux-art-kde-gaia/trunk/
 Package: sidux-art-kde-nyx
 Architecture: all
 Depends: ksplash, kdm, ksplash-engine-moodin
-Description: KDE theme for sidux 2007-04 eros
+Description: KDE theme for sidux 2008-01 nyx
  Provides ksplash, kdm and KDE themes
- for sidux 2007-04 Eros release
+ for sidux 2008-01 Nyx release
