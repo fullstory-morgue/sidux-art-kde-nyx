@@ -12,6 +12,7 @@ sidux-art-kde-nyx (0.0) unstable; urgency=low
   * update sidux-logo in ksplash and kdm
   * modify ksplash them so it's releasable
   * remove kde-theme dir temporarily
-  * add some custom themed ksplash icons 
+  * add some custom themed ksplash icons
+  * update sidux-logo for ksplash and kdm 
 
- -- Bernard Gray <bernard.gray@gmail.com>  Mon, 11 Feb 2008 20:42:00 +1100
+ -- Bernard Gray <bernard.gray@gmail.com>  Mon, 18 Feb 2008 22:22:47 +1100
