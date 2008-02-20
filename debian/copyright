@@ -6,19 +6,19 @@ The original source can always be found at:
 
         Copyright:
 		sidux gomo ksplash theme
-		Copyright (C) 2008  by 
+		Copyright © 2008  by 
 			Bernard Gray <bernard.gray@gmail.com>
 		        Daniel Prien <d-s-p@d-s-p.de>
 		License: GPL2 or later
 		
 		sidux gomo kdm theme
-		Copyright (C) 2008  by 
+		Copyright © 2008  by 
 			Bernard Gray <bernard.gray@gmail.com>
 		        Daniel Prien <d-s-p@d-s-p.de>
 		License: GPL2 or later
 		
 		Invisible kdisplay color schemes
-		Copyright (C) 2008  by knithx (knithx@gmail.com)
+		Copyright © 2008  by knithx (knithx@gmail.com)
 		License: GPL2 or later
 
 All other files contained within this distribution are covered by the GPL
@@ -41,5 +41,5 @@ license v2 or later.
 On Debian systems, the complete text of the GNU General
 Public License can be found in `/usr/share/common-licenses/GPL'.
 
-The Debian packaging is (C) 2008, Bernard Gray <bernard.gray@gmail.com> and
+The Debian packaging is © 2008, Bernard Gray <bernard.gray@gmail.com> and
 is licensed under the GPL, see above.
