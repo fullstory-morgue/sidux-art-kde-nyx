@@ -1,9 +1,5 @@
-sidux-art-kde-nyx (0.3) UNRELEASED; urgency=low
+sidux-art-kde-nyx (0.3) unstable; urgency=low
 
-  [ Stefan Lippers-Hollmann ]
-  * NOT RELEASED YET
-
-  [ Bernard Gray ]
   * update logo and background to match wallpaper 
 
  -- Bernard Gray <bernard.gray@gmail.com>  Thu, 21 Feb 2008 23:20:31 +1100
