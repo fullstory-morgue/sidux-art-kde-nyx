@@ -1,9 +1,5 @@
-sidux-art-kde-nyx (0.5) UNRELEASED; urgency=low
+sidux-art-kde-nyx (0.5) unstable; urgency=low
 
-  [ Stefan Lippers-Hollmann ]
-  * NOT RELEASED YET
-
-  [ Bernard Gray ]
   * update sidux-logo pngs to current source
   * update backgrounds to current source 
 
