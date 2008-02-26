@@ -18,7 +18,7 @@
    sodipodi:docname="sidux-logo.svg"
    inkscape:output_extension="org.inkscape.output.svg.inkscape"
    version="1.0"
-   inkscape:export-filename="/home/daniel/dokumente/sidux/nyx/nyx_test7.png"
+   inkscape:export-filename="/home/bgray/svn/svn.berlios.de-fullstory/sidux-art-kde-nyx/trunk/ksplash/sidux-logo.png"
    inkscape:export-xdpi="90"
    inkscape:export-ydpi="90"
    style="display:inline;enable-background:new">
@@ -35,7 +35,7 @@
      inkscape:document-units="px"
      inkscape:current-layer="layer16"
      inkscape:window-width="1400"
-     inkscape:window-height="988"
+     inkscape:window-height="983"
      inkscape:window-x="0"
      inkscape:window-y="0"
      height="1200px"
@@ -63,6 +63,13 @@
   </sodipodi:namedview>
   <defs
      id="defs5552">
+    <inkscape:perspective
+       sodipodi:type="inkscape:persp3d"
+       inkscape:vp_x="-50 : 600 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_z="700 : 600 : 1"
+       inkscape:persp3d-origin="300 : 400 : 1"
+       id="perspective181" />
     <inkscape:perspective
        sodipodi:type="inkscape:persp3d"
        inkscape:vp_x="-50 : 600 : 1"
@@ -432,35 +439,35 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
-        <dc:date />
+        <dc:title></dc:title>
+        <dc:date></dc:date>
         <dc:creator>
           <cc:Agent>
-            <dc:title />
+            <dc:title></dc:title>
           </cc:Agent>
         </dc:creator>
         <dc:rights>
           <cc:Agent>
-            <dc:title />
+            <dc:title></dc:title>
           </cc:Agent>
         </dc:rights>
         <dc:publisher>
           <cc:Agent>
-            <dc:title />
+            <dc:title></dc:title>
           </cc:Agent>
         </dc:publisher>
-        <dc:identifier />
-        <dc:source />
-        <dc:relation />
-        <dc:language />
+        <dc:identifier></dc:identifier>
+        <dc:source></dc:source>
+        <dc:relation></dc:relation>
+        <dc:language></dc:language>
         <dc:subject>
           <rdf:Bag />
         </dc:subject>
-        <dc:coverage />
-        <dc:description />
+        <dc:coverage></dc:coverage>
+        <dc:description></dc:description>
         <dc:contributor>
           <cc:Agent>
-            <dc:title />
+            <dc:title></dc:title>
           </cc:Agent>
         </dc:contributor>
         <cc:license
