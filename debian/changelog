@@ -1,8 +1,13 @@
 sidux-art-kde-nyx (0.6) UNRELEASED; urgency=low
 
+  [ Stefan Lippers-Hollmann ]
   * NOT RELEASED YET
 
- -- Stefan Lippers-Hollmann <s.l-h@gmx.de>  Tue, 26 Feb 2008 15:15:56 +0100
+  [ Bernard Gray ]
+  * remove sidux logo completely
+  * make first icon line up (seems to be bug with y offset)
+
+ -- Bernard Gray <bernard.gray@gmail.com>  Wed, 27 Feb 2008 19:23:19 +1100
 
 sidux-art-kde-nyx (0.5) unstable; urgency=low
 
