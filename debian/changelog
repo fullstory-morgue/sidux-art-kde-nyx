@@ -1,9 +1,5 @@
-sidux-art-kde-nyx (0.6) UNRELEASED; urgency=low
+sidux-art-kde-nyx (0.6) unstable; urgency=low
 
-  [ Stefan Lippers-Hollmann ]
-  * NOT RELEASED YET
-
-  [ Bernard Gray ]
   * remove sidux logo completely
   * make first icon line up (seems to be bug with y offset)
   * update ksplash preview to match nyx theme
