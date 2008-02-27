@@ -6,9 +6,11 @@ sidux-art-kde-nyx (0.6) UNRELEASED; urgency=low
   [ Bernard Gray ]
   * remove sidux logo completely
   * make first icon line up (seems to be bug with y offset)
-  * update ksplash preview to match nyx theme 
+  * update ksplash preview to match nyx theme
+  * move/resize kdm sidux logo for better multi res support
+  * update kdm screenshot to match nyx theme
 
- -- Bernard Gray <bernard.gray@gmail.com>  Wed, 27 Feb 2008 19:29:44 +1100
+ -- Bernard Gray <bernard.gray@gmail.com>  Wed, 27 Feb 2008 20:31:56 +1100
 
 sidux-art-kde-nyx (0.5) unstable; urgency=low
 

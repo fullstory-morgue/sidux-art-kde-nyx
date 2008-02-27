@@ -9,8 +9,8 @@
    xmlns:xlink="http://www.w3.org/1999/xlink"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="577.92078"
-   height="1519.7175"
+   width="390"
+   height="135"
    id="svg5550"
    sodipodi:version="0.32"
    inkscape:version="0.45+devel"
@@ -18,7 +18,7 @@
    sodipodi:docname="sidux-logo.svg"
    inkscape:output_extension="org.inkscape.output.svg.inkscape"
    version="1.0"
-   inkscape:export-filename="/home/bgray/svn/svn.berlios.de-fullstory/sidux-art-kde-nyx/trunk/kdm/sidux-logo.png"
+   inkscape:export-filename="/usr/share/apps/kdm/themes/sidux-nyx/sidux-logo.png"
    inkscape:export-xdpi="90"
    inkscape:export-ydpi="90"
    style="display:inline;enable-background:new">
@@ -29,9 +29,9 @@
      borderopacity="1"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="0"
-     inkscape:zoom="0.65166667"
-     inkscape:cx="529.15601"
-     inkscape:cy="600"
+     inkscape:zoom="1.8431917"
+     inkscape:cx="350.49583"
+     inkscape:cy="97.556992"
      inkscape:document-units="px"
      inkscape:current-layer="layer16"
      inkscape:window-width="1400"
@@ -63,6 +63,20 @@
   </sodipodi:namedview>
   <defs
      id="defs5552">
+    <inkscape:perspective
+       sodipodi:type="inkscape:persp3d"
+       inkscape:vp_x="-50 : 600 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_z="700 : 600 : 1"
+       inkscape:persp3d-origin="300 : 400 : 1"
+       id="perspective180" />
+    <inkscape:perspective
+       sodipodi:type="inkscape:persp3d"
+       inkscape:vp_x="-50 : 600 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_z="700 : 600 : 1"
+       inkscape:persp3d-origin="300 : 400 : 1"
+       id="perspective182" />
     <inkscape:perspective
        sodipodi:type="inkscape:persp3d"
        inkscape:vp_x="-50 : 600 : 1"
@@ -317,14 +331,6 @@
          id="rect8063"
          style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:1.62510061;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
     </clipPath>
-    <filter
-       inkscape:collect="always"
-       id="filter6915">
-      <feGaussianBlur
-         inkscape:collect="always"
-         stdDeviation="5.6988159"
-         id="feGaussianBlur6917" />
-    </filter>
     <linearGradient
        inkscape:collect="always"
        xlink:href="#linearGradient3817"
@@ -439,35 +445,35 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
-        <dc:date></dc:date>
+        <dc:title />
+        <dc:date />
         <dc:creator>
           <cc:Agent>
-            <dc:title></dc:title>
+            <dc:title />
           </cc:Agent>
         </dc:creator>
         <dc:rights>
           <cc:Agent>
-            <dc:title></dc:title>
+            <dc:title />
           </cc:Agent>
         </dc:rights>
         <dc:publisher>
           <cc:Agent>
-            <dc:title></dc:title>
+            <dc:title />
           </cc:Agent>
         </dc:publisher>
-        <dc:identifier></dc:identifier>
-        <dc:source></dc:source>
-        <dc:relation></dc:relation>
-        <dc:language></dc:language>
+        <dc:identifier />
+        <dc:source />
+        <dc:relation />
+        <dc:language />
         <dc:subject>
           <rdf:Bag />
         </dc:subject>
-        <dc:coverage></dc:coverage>
-        <dc:description></dc:description>
+        <dc:coverage />
+        <dc:description />
         <dc:contributor>
           <cc:Agent>
-            <dc:title></dc:title>
+            <dc:title />
           </cc:Agent>
         </dc:contributor>
         <cc:license
@@ -480,14 +486,7 @@
      inkscape:label="logo#1"
      id="layer16"
      inkscape:groupmode="layer"
-     transform="translate(192.64026,157.65514)">
-    <rect
-       style="opacity:0.21725242;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.78100002;stroke-linecap:butt;stroke-linejoin:miter;marker:none;marker-start:none;marker-mid:none;marker-end:none;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.30033007;visibility:visible;display:inline;overflow:visible;enable-background:new"
-       id="rect11777"
-       width="577.92078"
-       height="1519.7175"
-       x="-192.64026"
-       y="-157.65514" />
+     transform="translate(224.38787,-709.38069)">
     <g
        transform="matrix(0,-1.5995757,1.5995757,0,-356.96391,1340.8627)"
        style="opacity:0.75925927;fill:#000000;fill-opacity:1;display:none"
@@ -599,7 +598,7 @@
     </g>
     <g
        id="g5776"
-       transform="translate(-80,0)">
+       transform="matrix(0,0.520646,-0.520646,0,382.60157,679.5779)">
       <g
          style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:1.90501201;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;display:inline;filter:url(#filter4964)"
          id="g4800"

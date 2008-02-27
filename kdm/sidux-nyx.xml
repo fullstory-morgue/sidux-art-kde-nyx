@@ -9,16 +9,16 @@
 		
 		<item type="pixmap">
 			<normal file="login.png"/>
-			<pos anchor="c" x="62%" y="45%"/>
+			<pos anchor="c" x="50%" y="45%"/>
 		</item>	
 		
 		<item type="pixmap">
 			<normal file="sidux-logo.png"/>
-			<pos anchor="w" x="0%" y="35%"/>
+			<pos anchor="w" x="1%" y="85%"/>
 		</item>	
 		
 		<item type="rect">		
-			<pos anchor="c" x="62%" y="50%" width="700" height="500"/>
+			<pos anchor="c" x="50%" y="50%" width="700" height="500"/>
 			
 			<!-- username-label -->
 			<item type="label">
