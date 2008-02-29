@@ -1,9 +1,5 @@
-sidux-art-kde-nyx (0.7) UNRELEASED; urgency=low
+sidux-art-kde-nyx (0.7) unstable; urgency=low
 
-  [ Stefan Lippers-Hollmann ]
-  * NOT RELEASED YET
-
-  [ Bernard Gray ]
   * add dummy 1x1 transparent icon to work around ksplash moodin display bug 
   * update ksplash Theme.rc to use dummy icon
 
