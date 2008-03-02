@@ -5,8 +5,9 @@ sidux-art-kde-nyx (0.8) UNRELEASED; urgency=low
 
   [ Bernard Gray ]
   * break icons source into individual pieces for auto generation
+  * update ksplash preview for icon changes 
 
- -- Bernard Gray <bernard.gray@gmail.com>  Sun, 02 Mar 2008 22:34:38 +1100
+ -- Bernard Gray <bernard.gray@gmail.com>  Sun, 02 Mar 2008 22:42:59 +1100
 
 sidux-art-kde-nyx (0.7) unstable; urgency=low
 
