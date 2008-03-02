@@ -22,13 +22,13 @@ Image7 = ./phase6.png
 Image8 = ./phase7.png
 
 ImageCoords1 = 0,0
-ImageCoords2 = 499,609
-ImageCoords3 = 599,609
-ImageCoords4 = 679,609
-ImageCoords5 = 759,609
-ImageCoords6 = 839,609
-ImageCoords7 = 919,609
-ImageCoords8 = 999,609
+ImageCoords2 = 527,635
+ImageCoords3 = 608,635
+ImageCoords4 = 688,635
+ImageCoords5 = 768,635
+ImageCoords6 = 848,635
+ImageCoords7 = 928,635
+ImageCoords8 = 1008,635
 
 LineUpImages = false
 

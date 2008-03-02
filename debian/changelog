@@ -1,8 +1,12 @@
 sidux-art-kde-nyx (0.8) UNRELEASED; urgency=low
 
+  [ Stefan Lippers-Hollmann ]
   * NOT RELEASED YET
 
- -- Stefan Lippers-Hollmann <s.l-h@gmx.de>  Fri, 29 Feb 2008 14:04:46 +0100
+  [ Bernard Gray ]
+  * break icons source into individual pieces for auto generation
+
+ -- Bernard Gray <bernard.gray@gmail.com>  Sun, 02 Mar 2008 22:34:38 +1100
 
 sidux-art-kde-nyx (0.7) unstable; urgency=low
 
