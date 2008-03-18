@@ -1,9 +1,5 @@
-sidux-art-kde-nyx (0.8) UNRELEASED; urgency=low
+sidux-art-kde-nyx (0.8) unstable; urgency=low
 
-  [ Stefan Lippers-Hollmann ]
-  * NOT RELEASED YET
-
-  [ Bernard Gray ]
   * break icons source into individual pieces for auto generation
   * update ksplash preview for icon changes 
   * update kdm xml def to make buttons more responsive
