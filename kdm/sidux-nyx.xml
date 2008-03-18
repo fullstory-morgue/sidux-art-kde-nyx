@@ -82,9 +82,9 @@
 				</fixed>
   			</item>
 			<item type="rect" id="session_button" button="true">
-				<pos x="435" y="280" width="5%" height="10%"/>
+				<pos x="435" y="280" width="15%" height="5%"/>
 				<item type="pixmap">
-					<pos anchor="c" y="10" x="0"/>
+					<pos anchor="c" y="10" x="3"/>
 					<normal file="session.png" tint="#dddddd"/>
 					<prelight file="session.png"/>
 					<pressed file="session.png" tint="#bbbbbb"/>
@@ -101,9 +101,9 @@
 			<!-- menu-button -->
 			<item type="rect" id="system_button" button="true">
 				<show modes="console" type="system"/>
-				<pos x="350" y="280" width="5%" height="10%"/>
+				<pos x="350" y="280" width="9%" height="6%"/>
 				<item type="pixmap" button="true">
-					<pos anchor="c" y="10" x="0"/>
+					<pos anchor="c" y="10" x="3"/>
 					<normal file="system.png" tint="dddddd"/>
 					<prelight file="system.png"/>
 					<pressed file="system.png" tint="bbbbbb"/>

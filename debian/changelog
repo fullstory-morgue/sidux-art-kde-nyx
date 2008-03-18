@@ -6,8 +6,13 @@ sidux-art-kde-nyx (0.8) UNRELEASED; urgency=low
   [ Bernard Gray ]
   * break icons source into individual pieces for auto generation
   * update ksplash preview for icon changes 
+  * update kdm xml def to make buttons more responsive
+  * update kdm icons to suit better with new sidux icons
+  * update kdm preview to reflect changes
+  * remove unused kdm icon options.png 
+  * update copyright to include new kdm icons 
 
- -- Bernard Gray <bernard.gray@gmail.com>  Sun, 02 Mar 2008 22:42:59 +1100
+ -- Bernard Gray <bernard.gray@gmail.com>  Tue, 18 Mar 2008 23:36:31 +1100
 
 sidux-art-kde-nyx (0.7) unstable; urgency=low
 
