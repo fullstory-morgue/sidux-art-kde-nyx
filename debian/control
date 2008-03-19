@@ -13,6 +13,7 @@ Package: sidux-art-kde-nyx
 Architecture: all
 Provides: sidux-art-kde-theme
 Depends: ksplash, kdm, ksplash-engine-moodin
+Recommends: sidux-art-wallpaper-nyx, kde-style-qtcurve, gtk2-engines-qtcurve, dmz-cursor-theme
 Description: KDE theme for sidux 2008-01 nyx
  Provides ksplash, kdm and KDE themes
  for sidux 2008-01 Nyx release

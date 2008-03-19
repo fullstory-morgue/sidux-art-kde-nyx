@@ -5,8 +5,9 @@ sidux-art-kde-nyx (0.9) UNRELEASED; urgency=low
 
   [ Bernard Gray ]
   * add nyx kde-theme 
+  * update recommends to include some extra things for kde-theme pkg 
 
- -- Bernard Gray <bernard.gray@gmail.com>  Wed, 19 Mar 2008 14:22:35 +1100
+ -- Bernard Gray <bernard.gray@gmail.com>  Wed, 19 Mar 2008 14:51:35 +1100
 
 sidux-art-kde-nyx (0.8) unstable; urgency=low
 
