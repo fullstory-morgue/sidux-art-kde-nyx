@@ -7,8 +7,9 @@ sidux-art-kde-nyx (0.9) UNRELEASED; urgency=low
   * add nyx kde-theme 
   * update recommends to include some extra things for kde-theme pkg 
   * remove vbox window surround from kde-theme preview 
+  * resize kde-theme preview to the 640x480 used in the kde-theme manager 
 
- -- Bernard Gray <bernard.gray@gmail.com>  Wed, 19 Mar 2008 17:08:41 +1100
+ -- Bernard Gray <bernard.gray@gmail.com>  Wed, 19 Mar 2008 17:14:07 +1100
 
 sidux-art-kde-nyx (0.8) unstable; urgency=low
 
