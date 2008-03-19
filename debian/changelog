@@ -1,9 +1,5 @@
-sidux-art-kde-nyx (0.9) UNRELEASED; urgency=low
+sidux-art-kde-nyx (0.9) unstable; urgency=low
 
-  [ Stefan Lippers-Hollmann ]
-  * NOT RELEASED YET
-
-  [ Bernard Gray ]
   * add nyx kde-theme 
   * update recommends to include some extra things for kde-theme pkg 
   * remove vbox window surround from kde-theme preview 
