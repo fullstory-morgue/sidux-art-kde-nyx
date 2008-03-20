@@ -1,8 +1,12 @@
 sidux-art-kde-nyx (0.10) UNRELEASED; urgency=low
 
+  [ Stefan Lippers-Hollmann ]
   * NOT RELEASED YET
 
- -- Stefan Lippers-Hollmann <s.l-h@gmx.de>  Wed, 19 Mar 2008 13:57:29 +0100
+  [ Bernard Gray ]
+  * update logo in kdm with reflection to match wallpaper 
+
+ -- Bernard Gray <bernard.gray@gmail.com>  Thu, 20 Mar 2008 21:19:23 +1100
 
 sidux-art-kde-nyx (0.9) unstable; urgency=low
 
