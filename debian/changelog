@@ -1,8 +1,8 @@
-sidux-art-kde-nyx (0.11) UNRELEASED; urgency=low
+sidux-art-kde-nyx (0.11) unstable; urgency=low
 
-  * NOT RELEASED YET
+  * switch to the new dh implementation of debhelper 7.
 
- -- Stefan Lippers-Hollmann <s.l-h@gmx.de>  Fri, 21 Mar 2008 09:58:46 +0100
+ -- Stefan Lippers-Hollmann <s.l-h@gmx.de>  Wed, 07 May 2008 01:57:48 +0200
 
 sidux-art-kde-nyx (0.10) unstable; urgency=low
 
