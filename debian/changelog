@@ -1,3 +1,9 @@
+sidux-art-kde-nyx (0.14) UNRELEASED; urgency=low
+
+  * NOT RELEASED YET
+
+ -- Stefan Lippers-Hollmann <s.l-h@gmx.de>  Mon, 08 Dec 2008 23:30:07 +0100
+
 sidux-art-kde-nyx (0.13) unstable; urgency=low
 
   * make lintian happy and depend on ${misc:Depends}.
