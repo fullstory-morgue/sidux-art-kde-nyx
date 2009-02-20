@@ -2,7 +2,6 @@
 Author=Bernard Gray
 Copyright=GPL
 Description="sidux 2008-01 nyx" theme based loosely on "true-nature" by Stephen Spies
-Encoding=UTF-8
 Greeter=sidux-nyx.xml
 Name=sidux-nyx
 Screenshot=screenshot.png
