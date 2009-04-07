@@ -1,9 +1,5 @@
 sidux-art-kde-nyx (0.16) unstable; urgency=low
 
-  [ Stefan Lippers-Hollmann ]
-  * NOT RELEASED YET
-
-  [ Michiel de Boer ]
   * Moved postinst to sidux-art-wallpaper-nyx
 
  -- Michiel de Boer <locsmif@sidux.com>  Tue, 07 Apr 2009 05:52:36 +0200
